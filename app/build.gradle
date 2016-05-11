@@ -8,8 +8,8 @@ android {
         applicationId "com.maxenceb.calculateurbrevet"
         minSdkVersion 16
         targetSdkVersion 23
-        versionCode 3
-        versionName "1.2"
+        versionCode 7
+        versionName "1.4.2"
     }
     buildTypes {
         release {
