@@ -10,12 +10,15 @@ import android.widget.EditText;
 import android.widget.NumberPicker;
 import android.widget.Toast;
 
+import com.google.firebase.analytics.FirebaseAnalytics;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        FirebaseAnalytics analytics = FirebaseAnalytics.getInstance(this);
 
 
 

@@ -22,7 +22,8 @@
         android:orientation="horizontal"
         android:layout_width="match_parent"
         android:layout_height="80dp"
-        android:gravity="center_horizontal">
+        android:gravity="center_horizontal"
+        android:layout_marginTop="20dp">
 
         <EditText
             android:layout_width="100dp"
@@ -242,7 +243,7 @@
 
         <Button
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="100dp"
             android:text="Calculer !"
             android:id="@+id/button"
             android:layout_alignParentBottom="true"

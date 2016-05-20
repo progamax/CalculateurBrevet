@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "861009124569",
+    "firebase_url": "https://api-5255036160547402370-157841.firebaseio.com",
+    "project_id": "api-5255036160547402370-157841",
+    "storage_bucket": "api-5255036160547402370-157841.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861009124569:android:76e3fa0b35e33140",
+        "android_client_info": {
+          "package_name": "com.maxenceb.calculateurbrevet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861009124569-m36lp979pe8id0f9q3lbk5bm1e7gvl39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maxenceb.calculateurbrevet",
+            "certificate_hash": "310D58F40616D28E7C16EA26CF74031EE800F4C7"
+          }
+        },
+        {
+          "client_id": "861009124569-6rpoc9klb8mkspjtffk02frlanbiia0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrU2HGZHwtSXV8cY1UJYHSvkymgt4BJo4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861009124569-6rpoc9klb8mkspjtffk02frlanbiia0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
